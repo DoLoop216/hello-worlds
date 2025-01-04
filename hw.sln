@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulator", "src\Kalkulator\Kalkulator.csproj", "{89517832-0F36-41BD-971A-C3EED1AE6ECA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulatorNapredni", "src\KalkulatorNapredni\KalkulatorNapredni.csproj", "{7C93395C-C8B0-4E0A-8848-22C9F03CDDCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{89517832-0F36-41BD-971A-C3EED1AE6ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89517832-0F36-41BD-971A-C3EED1AE6ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89517832-0F36-41BD-971A-C3EED1AE6ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C93395C-C8B0-4E0A-8848-22C9F03CDDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C93395C-C8B0-4E0A-8848-22C9F03CDDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C93395C-C8B0-4E0A-8848-22C9F03CDDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C93395C-C8B0-4E0A-8848-22C9F03CDDCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
