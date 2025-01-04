@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulatorNapredniFinal", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulatorReturn", "src\KalkulatorReturn\KalkulatorReturn.csproj", "{056401A8-A38A-456F-8B6D-56ED80DF44D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prodavnica001", "src\Prodavnica001\Prodavnica001.csproj", "{A523976B-7936-40A9-B6C3-C9FA104AB0F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{056401A8-A38A-456F-8B6D-56ED80DF44D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{056401A8-A38A-456F-8B6D-56ED80DF44D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{056401A8-A38A-456F-8B6D-56ED80DF44D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A523976B-7936-40A9-B6C3-C9FA104AB0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A523976B-7936-40A9-B6C3-C9FA104AB0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A523976B-7936-40A9-B6C3-C9FA104AB0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A523976B-7936-40A9-B6C3-C9FA104AB0F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
