@@ -1,4 +1,4 @@
-namespace Prodavnica002;
+namespace Prodavnica003;
 
 public class Proizvod
 {
